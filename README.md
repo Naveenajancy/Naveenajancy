@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naveenajancy 
-- 👀 I’m interested in coding :computer: problem solving :sparkles: and cooking :curry:
-- 🌱 I’m currently learning Spring Boot :herb: Java :coffee: and AWS :cloud:
+- 👀 I’m interested in coding :computer: and problem solving :sparkles:
+- 🌱 I’m currently learning Java :coffee: Spring Boot :herb: and AWS :cloud:
 - 📫 Reach me :point_right: naveenajancykb@gmail.com
 
 <!---
